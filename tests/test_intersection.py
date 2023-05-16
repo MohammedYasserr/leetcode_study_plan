@@ -2,9 +2,9 @@ import unittest
 import sys
 
 # Importing the file containg the directory to the environment OS
-sys.path.append('E:/Current/Projects/ds_workplace/Intersection_of_two_arrays')
+sys.path.append('E:/Current/Projects/ds_workplace')
 
-from intersection_of_two_arrays import intersection
+from Intersection_of_two_arrays.intersection_of_two_arrays import intersection
 
 class TestIntersection(unittest.TestCase):
 
