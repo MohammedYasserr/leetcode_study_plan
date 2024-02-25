@@ -18,3 +18,6 @@ class TestIntersection(unittest.TestCase):
         result = intersection(nums1,nums2)
         self.assertEqual(result, {2,3})
         print("Test Passed ! ")
+    
+
+    print("This is me from test file")
