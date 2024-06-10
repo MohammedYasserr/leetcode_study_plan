@@ -16,8 +16,10 @@ class TestIntersection(unittest.TestCase):
         nums1 = [1,2,3,4]
         nums2 = [2,3]
         result = intersection(nums1,nums2)
-        self.assertEqual(result, {2,3})
+        print(self.assertEqual(result, {2,6}))
         print("Test Passed ! ")
     
 
     print("This is me from test file")
+    
+print("Hi")
