@@ -31,5 +31,3 @@ def palidrome_number(x: int) -> bool:
             return False
     return True
             
-
-palidrome_number(1000021)
