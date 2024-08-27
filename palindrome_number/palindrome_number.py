@@ -27,7 +27,7 @@ def palidrome_number(x: int) -> bool:
             i += 1 
             j += 1
         else:
-            print(False)
+            # print(False)
             return False
     return True
             
